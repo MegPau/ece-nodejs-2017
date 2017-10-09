@@ -8,7 +8,7 @@ Just clone it from github
 
 ## Run
 
-Use 'node index.js'
+Use `node index.js`
 
 ## Tests
 
