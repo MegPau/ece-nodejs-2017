@@ -7,8 +7,9 @@
     "test": "./bin/test.sh tests/*"
   },
   "dependencies": {
-  "morgan": "^1.9.0"
-},
+    "coffee-script": "^1.12.7",
+    "morgan": "^1.9.0"
+  },
   "devDependencies": {
     "mocha": "^4.0.1",
     "should": "^13.1.1"
